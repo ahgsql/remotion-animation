@@ -1,6 +1,6 @@
 {
-	"name": "react-npm-package-boilerplate",
-	"version": "1.0.0",
+	"name": "@codifytools/react-npm-package-boilerplate",
+	"version": "1.0.2",
 	"description": "",
 	"main": "dist/index.cjs.js",
 	"module": "dist/index.esm.js",
@@ -11,7 +11,7 @@
 	},
 	"keywords": [],
 	"author": "",
-	"license": "ISC",
+	"license": "MIT",
 	"peerDependencies": {
 		"react": ">=16.8.0",
 		"react-dom": ">=16.8.0"
