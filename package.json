@@ -9,8 +9,14 @@
 		"storybook": "start-storybook",
 		"build": "rollup -c"
 	},
-	"keywords": [],
-	"author": "",
+	"keywords": [
+		"react",
+		"storybook",
+		"rollup",
+		"boilerplate"
+	],
+	"author": "Juan Pablo Mejia Duque",
+	"repository": "codifytools/react-npm-package-boilerplate",
 	"license": "MIT",
 	"peerDependencies": {
 		"react": ">=16.8.0",
