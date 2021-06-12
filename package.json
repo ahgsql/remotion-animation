@@ -1,6 +1,6 @@
 {
   "name": "remotion-animation",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Use Css Keyframes and Animations from animate.css in remotion.",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -23,7 +23,8 @@
   "license": "MIT",
   "peerDependencies": {
     "react": ">=16.8.0",
-    "remotion": "^2.0.0"
+    "remotion": "^2.0.0",
+    "pure-md5": "^0.1.13"
   },
   "devDependencies": {
     "@babel/core": "^7.13.16",
