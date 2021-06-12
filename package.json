@@ -1,6 +1,6 @@
 {
-  "name": "remotion-keyframes",
-  "version": "1.0.6",
+  "name": "remotion-animation",
+  "version": "1.0.1",
   "description": "Use Css Keyframes and Animations from animate.css in remotion.",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -9,10 +9,15 @@
     "build": "rollup -c",
     "publish": "npm run build && npm publish --access public"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahgsql/remotion-keyframes.git"
+  },
   "keywords": [
     "react",
     "remotion",
-    "css keyframes"
+    "css keyframes",
+    "animate.css"
   ],
   "author": "ahgsql",
   "license": "MIT",
