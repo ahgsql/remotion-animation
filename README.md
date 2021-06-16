@@ -77,12 +77,12 @@ import "animate.css";
 import { Animation } from "remotion-animation";
 import "animate.css";
 
-//Percentage Usage, you can use all numbers between 0 and 100 with "f" prefix
 <Animation duration="2" animateName="bounceIn">
   <span style={{ fontSize: "10rem" }}> I am Bouncing! </span>
 </Animation>;
 ```
 
+You can use another animation frameworks if they provide animations name directly
 ## License
 
 MIT © [ahgsql](https://github.com/ahgsql)
