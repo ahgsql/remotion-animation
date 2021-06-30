@@ -1,4 +1,5 @@
 import { useCurrentFrame, useVideoConfig } from "remotion";
+import React from "react";
 import { md5 } from "pure-md5";
 const Animation = (props) => {
   let uniqid =
